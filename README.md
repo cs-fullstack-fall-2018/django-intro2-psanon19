@@ -1,4 +1,4 @@
-# django-intro3
+# django-intro2
 
 Create three new routes: hello_name, times2, and sum.
 
